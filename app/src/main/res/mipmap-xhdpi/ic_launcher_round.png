@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ba20957-0cd8-4af8-9371-5f08e14f391d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="S5ESS3220GC180097747" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/ui/detail/MovieDetailActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="valueResourceFile" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>AndroidJUnitRunner</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/movie_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_tvshow.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/tv_show_item.xml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/ui/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/ui/main/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/MovieFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/ui/home/tvshow/TVShowFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/TVShowFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/ui/movie/MovieViewModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/utils/MyAppGlideModule.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/ui/movie/MovieFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/ui/tvshow/TVShowViewModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/ui/tvshow/TVShowFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/ui/detail/TVShowViewModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/ui/detail/TVShowAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/ui/detail/TVShowActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/data/MovieEntity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/ui/movie/MovieAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/ui/tvshow/TVShowAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/ui/detail/DetailTVViewModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/ui/detail/TVDetailActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/utils/DataDummy.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/data/TVShowEntity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_tvshow.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values-en/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values-in/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/debug/java/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/com/dicoding/moviecatalogue/utils/FakeDataDummy.java" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/com/dicoding/moviecatalogue/utils/RecyclerViewItemCountAssertion.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/ui/home/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/debug/java/com/dicoding/academies/testing/SingleFragmentActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/debug/res/values/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/debug/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/debug/java/com/dicoding/moviecatalogue/testing/SingleFragmentActivity.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/ui/detail/DetailMovieViewModel.java" />
+        <option value="$PROJECT_DIR$/app/src/test/java/com/dicoding/moviecatalogue/ui/detail/DetailMovieViewModelTest.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/moviecatalogue/ui/detail/MovieDetailActivity.java" />
+        <option value="$PROJECT_DIR$/app

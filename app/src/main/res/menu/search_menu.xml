@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_intent_search"
+        android:title="Search Event">
+    </item>
+
+    <item
+        android:id="@+id/action_intent_favorite"
+        android:title="Favorite Event">
+    </item>
+</menu>

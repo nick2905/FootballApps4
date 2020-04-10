@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="list_team" type="id" />
+    <item name="search_detail_match" type="id" />
+    <item name="imageHome" type="id" />
+    <item name="scoreHome" type="id" />
+    <item name="scoreAway" type="id" />
+    <item name="imageAway" type="id" />
+    <item name="dateEvent" type="id" />
+    <item name="name_home_team" type="id" />
+    <item name="name_team_away" type="id" />
+    <item name="linearLayout" type="id" />
+    <item name="progressDetail" type="id" />
+    <item name="rvPrevious" type="id" />
+    <item name="progressBarPrev" type="id" />
+    <item name="progressBarNext" type="id" />
+    <item name="rvNext" type="id" />
+    <item name="timeEvent" type="id" />
+    <item name="type_league" type="id" />
+    <item name="awayDetailScore" type="id" />
+    <item name="homeDetailScore" type="id" />
+    <item name="rvSearch" type="id" />
+    <item name="progressBarSearch" type="id" />
+    <item name="rvHomeMain" type="id" />
+</resources>
